@@ -213,7 +213,7 @@ const rawPots: Omit<Pot, "plants">[] = [
   {
     id: "combo-1",
     title: "Combo Pot 1 — Verbena & Scarlet Coyote Mint",
-    image: "/images/pot-verbena-coyotemint.webp",
+    image: "https://galaxy-prod.tlcdn.com/gen/user_2xKpOD4FeJt7vWsDeRRQSGr1zcA/9b630277-9e6a-4bec-8209-82592e500f5d.png",
     potSize: "16\" round",
     soilMix: "Standard potting soil + 25% pumice/perlite. Moderate drainage — this pair tolerates the baseline mix without extra grit.",
     waterNote: "Every 5–9 days once established; both plants share the same low-water rhythm, no split schedule needed.",
@@ -227,7 +227,7 @@ const rawPots: Omit<Pot, "plants">[] = [
   {
     id: "combo-2",
     title: "Combo Pot 2 — Monkeyflower, Penstemon & Idaho Fescue",
-    image: "/images/pot-monkeyflower-penstemon-fescue.webp",
+    image: "https://galaxy-prod.tlcdn.com/gen/user_2xKpOD4FeJt7vWsDeRRQSGr1zcA/f286ebc0-40be-4a9a-89d5-6bec61aa9999.png",
     potSize: "16\" round",
     soilMix: "Standard potting soil + 25% pumice/perlite. All three tolerate the baseline mix.",
     waterNote: "Every 5–9 days once established. Penstemon can take slightly more water than its potmates without issue if you'd rather not split schedules.",
@@ -242,7 +242,7 @@ const rawPots: Omit<Pot, "plants">[] = [
   {
     id: "combo-3",
     title: "Combo Pot 3 — Established Yarrow & Idaho Fescue",
-    image: "/images/pot-yarrow-fescue.webp",
+    image: "https://galaxy-prod.tlcdn.com/gen/user_2xKpOD4FeJt7vWsDeRRQSGr1zcA/c64b10b4-edc3-4c89-b049-2c78b5348cad.png",
     potSize: "16\" round (existing)",
     soilMix: "Whatever mix the yarrow is already established in is fine — just top-dress with fresh mix + 25% pumice around the new fescue's root ball rather than disturbing the whole pot.",
     waterNote: "Every 5–9 days once established; this pairing tolerates slightly more frequent water than the driest pots if you're hand-watering on one schedule.",
@@ -256,7 +256,7 @@ const rawPots: Omit<Pot, "plants">[] = [
   {
     id: "combo-4",
     title: "Combo Pot 4 — Narrowleaf Milkweed & Idaho Fescue",
-    image: "/images/pot-milkweed-fescue.webp",
+    image: "https://galaxy-prod.tlcdn.com/gen/user_2xKpOD4FeJt7vWsDeRRQSGr1zcA/a3ff18f5-d61e-4be2-98f9-b7eb4615ba67.png",
     potSize: "16\" round",
     soilMix: "Standard potting soil + 25% pumice/perlite. Milkweed tolerates regular potting soil better than most of this palette.",
     waterNote: "Every 5–9 days once established; this pairing tolerates slightly more frequent water than the driest pots if you're hand-watering on one schedule.",
@@ -270,7 +270,7 @@ const rawPots: Omit<Pot, "plants">[] = [
   {
     id: "solo-trichostema",
     title: "Solo Pot 5 — Woolly Blue Curls 'Midnight Blue'",
-    image: "/images/pots-solo-trio.webp",
+    image: "https://galaxy-prod.tlcdn.com/gen/user_2xKpOD4FeJt7vWsDeRRQSGr1zcA/e1e96f01-0033-4a8d-9b48-2f50ea5258f6.png",
     potSize: "18–20\" round",
     soilMix: "Lean, extra-gritty mix: standard potting soil + 40–50% pumice/perlite/coarse sand. This plant is the most drainage-sensitive on the whole list — do not use a rich mix.",
     waterNote: "Let dry fully between waterings; check before every watering rather than following a fixed calendar. Overwatering is the #1 killer of this plant.",
@@ -282,7 +282,7 @@ const rawPots: Omit<Pot, "plants">[] = [
   {
     id: "solo-fuchsia",
     title: "Solo Pot 6 — California Fuchsia",
-    image: "/images/pots-solo-trio.webp",
+    image: "https://galaxy-prod.tlcdn.com/gen/user_2xKpOD4FeJt7vWsDeRRQSGr1zcA/e1e96f01-0033-4a8d-9b48-2f50ea5258f6.png",
     potSize: "16\" round",
     soilMix: "Standard potting soil + 25–30% pumice/perlite.",
     waterNote: "Every 5–9 days once established; slightly more forgiving of watering variance than the Ceanothus/Trichostema pots.",
@@ -294,7 +294,7 @@ const rawPots: Omit<Pot, "plants">[] = [
   {
     id: "solo-caramel-creeper",
     title: "Solo Pot 7 — Wild Lilac 'Caramel Creeper'",
-    image: "/images/pots-solo-trio.webp",
+    image: "https://galaxy-prod.tlcdn.com/gen/user_2xKpOD4FeJt7vWsDeRRQSGr1zcA/e1e96f01-0033-4a8d-9b48-2f50ea5258f6.png",
     potSize: "16–18\" wide, shallow",
     soilMix: "Lean mix: standard potting soil + 35–40% pumice/perlite. Ceanothus family wants fast drainage even more than the general container blend.",
     waterNote: "Infrequent, deep watering — let the mix dry out well between waterings, similar rhythm to the fence-line Ceanothus but adjusted for a pot's faster dry-out.",

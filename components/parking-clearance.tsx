@@ -19,7 +19,7 @@ export function ParkingClearance() {
 
       <div className="mb-6 overflow-hidden rounded-2xl border border-clay/30 bg-white/50">
         <Image
-          src="/images/fence-line-clearance.webp"
+          src="https://galaxy-prod.tlcdn.com/gen/user_2xKpOD4FeJt7vWsDeRRQSGr1zcA/dbf92960-ee16-48fe-9cfb-0437d5f3e324.png"
           alt="Top-down diagram showing Ceanothus and Salvia canopy overhang into the driveway/parking area at maturity"
           width={2048}
           height={1152}

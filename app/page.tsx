@@ -60,14 +60,14 @@ export default function HomePage() {
             title="Fence Line — In Ground"
             description="Ceanothus 'Ray Hartman', 'Dark Star', and Salvia 'Pozo Blue' anchor the property line as a long-lived, low-water screen."
             tag={`${fenceCount} plants`}
-            image="/images/fence-line.webp"
+            image="https://galaxy-prod.tlcdn.com/gen/user_2xKpOD4FeJt7vWsDeRRQSGr1zcA/4751d4e3-0899-4729-b3a4-caf83afac359.png"
           />
           <PlanCard
             href="/containers"
             title="Containers — Patio"
             description="Nine container groupings — some solo, some paired — sized and spaced for root health, not just aesthetics."
             tag="9 pots"
-            image="/images/pot-verbena-coyotemint.webp"
+            image="https://galaxy-prod.tlcdn.com/gen/user_2xKpOD4FeJt7vWsDeRRQSGr1zcA/9b630277-9e6a-4bec-8209-82592e500f5d.png"
           />
         </div>
       </section>

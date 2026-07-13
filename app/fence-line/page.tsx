@@ -27,7 +27,7 @@ export default function FenceLinePage() {
 
       <div className="mb-8 overflow-hidden rounded-3xl border border-clay/30 bg-white/40">
         <Image
-          src="/images/fence-line.webp"
+          src="https://galaxy-prod.tlcdn.com/gen/user_2xKpOD4FeJt7vWsDeRRQSGr1zcA/4751d4e3-0899-4729-b3a4-caf83afac359.png"
           alt="Fence line layout diagram showing Ceanothus Ray Hartman, Dark Star, and Salvia Pozo Blue spacing"
           width={2048}
           height={1152}
