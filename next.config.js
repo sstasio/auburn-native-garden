@@ -7,6 +7,10 @@ const nextConfig = {
         protocol: "https",
         hostname: "galaxy-prod.tlcdn.com",
       },
+      {
+        protocol: "https",
+        hostname: "g.tlcdn.com",
+      },
     ],
   },
 };

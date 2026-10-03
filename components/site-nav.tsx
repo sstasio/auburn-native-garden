@@ -9,6 +9,7 @@ const navItems = [
   { href: "/fence-line", label: "Fence Line" },
   { href: "/containers", label: "Containers" },
   { href: "/plants", label: "Plant Directory" },
+  { href: "/furniture-care", label: "Furniture Care" },
   { href: "/log", label: "Garden Log" },
 ];
 
